@@ -2,7 +2,7 @@
 
 I'm the kind of programmer that loves coding websites things (with HTML, CSS, JS, PHP and SQL for the database)
 
-I also code in Python and Java sometimes when I have time to do it
+I also code in Python and Java sometimes (when I have time to do it actually)
 
 If you wanna ask about those languages, feel free to contact me : 
  - on Tweeter (@MajeurTestGD) 
