@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm the kind of programmer that loves coding websites things (with HTML, CSS, JS, PHP and SQL for the database)
+I'm the kind of programmer that loves coding websites things (with HTML, CSS, JS, Java or PHP and SQL for the database)
 
-I also code in Python and Java sometimes (when I have time to do it actually)
+I also code in Python sometimes (when I have time to do it actually)
 
-If you wanna ask about those languages, feel free to contact me : 
+If you want, feel free to contact me : 
  - on Tweeter (@MajeurTestGD) 
  - on Discord (MajeurTest#7012)
 
-Project in Progress : A website for selling model trains
+Project in Progress : A website for selling model trains and also making the GD French Leaderboard
 
 <!--
 **MajeurTest/majeurtest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
