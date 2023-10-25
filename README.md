@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I'm the kind of programmer that loves coding websites things (with HTML, CSS, JS, TS, Java or PHP and SQL for the database)
-Trying React and Svelte for future web projects
-I also code in Python sometimes (when I have time to do it actually)
+Trying React, Next.js and Svelte for future web projects
 
 If you want, feel free to contact me : 
  - on Tweeter (@MajeurTestGD) 
@@ -10,9 +9,12 @@ If you want, feel free to contact me :
 
 Projects done : 
  - GDFR Leaderboard Pages (https://majeurtest.github.io/gdfr-leaderboard)
- - GDFR Discord Bot (for managing the GDFR Data)
+ - GDFR Laederboard (Discord Bot for managing the GDFR Data)
+ - GDFR Rates (Discord Bot that displays GDFR rates)
 
 Project in Progress : 
+ - A website about a game
+ - A Sudoku-Helper website 
  - A website for selling model trains
  - GDFR Website
  - LG Discord Bot (update from the unnn LGBot)
