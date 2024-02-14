@@ -13,8 +13,8 @@ Projects done :
  - GDFR Rates (Discord Bot that displays GDFR rates)
 
 Project in Progress : 
- - A Discord Bot for Tygore
- - A discord bot for LP44 esteem points
+ - A Discord bot for Tygore
+ - A Discord bot for LP44 esteem points
  - A website about the game "Le Compte est Bon"
  - A Sudoku-Helper website 
  - GDFR Full Website
