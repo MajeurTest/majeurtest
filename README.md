@@ -8,7 +8,7 @@ If you want, feel free to contact me :
  - on Discord (majeurtest)
 
 Projects done : 
- - GDFR Leaderboard Pages (https://majeurtest.github.io/gdfr-leaderboard)
+ - [GDFR Leaderboard Pages](https://majeurtest.github.io/gdfr-leaderboard)
  - GDFR Laederboard (Discord Bot for managing the GDFR Data)
  - GDFR Rates (Discord Bot that displays GDFR rates)
  - A Discord bot for Tygore
