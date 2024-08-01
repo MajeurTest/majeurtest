@@ -4,7 +4,7 @@ I'm the kind of programmer that loves coding websites things (with HTML, CSS, JS
 Trying Next.js and Svelte for future web projects
 
 If you want, feel free to contact me : 
- - on Twitter / X [@MajeurTestGD](https://twitter.com/MajeurTestGD)
+ - on Twitter / X ([@MajeurTestGD](https://twitter.com/MajeurTestGD))
  - on Discord (majeurtest)
 
 Projects done : 
